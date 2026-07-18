@@ -144,15 +144,11 @@ Proyek aplikasi web ini dibuat dan dikembangkan sebagai pemenuhan tugas mata kul
 
 | Keterangan | Detail |
 | --- | --- |
-| **Nama Mahasiswa** | **[Nama Lengkap Kamu]** |
-| **NIM** | **[Nomor Induk Mahasiswa]** |
-| **Program Studi** | Informatika / Teknik Informatika |
-| **Dosen Pengampu** | **Alun Sujjada, S.Kom., M.Kom.** |
+| **Nama Mahasiswa** | **Kafka Syahrial Fauzan** |
+| **Program Studi** | PJJ Informatika S1 |
 
 ---
 
 *Copyright © 2026 — NOC Knowledge Base Portal. Built with CodeIgniter 3.*
-
-```
 
 ```
