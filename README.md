@@ -26,16 +26,25 @@ Aplikasi ini dibangun menggunakan arsitektur **MVC (Model-View-Controller)** dar
 * **Daftar Artikel SOP & Panduan:** Menampilkan dokumentasi teknis terbaru dengan format ringkasan (*excerpt*) dan badge kategori yang mudah dibaca.
 * **Halaman Baca Artikel Lengkap:** Fitur *read detail* artikel dengan URL bersih (*SEO-friendly slug*) dan tampilan bergaya web dokumentasi profesional.
 * **Form Feedback Interaktif:** Form bagi pengunjung untuk mengirimkan laporan kendala atau saran langsung ke tim NOC.
+<img width="1680" height="873" alt="image" src="https://github.com/user-attachments/assets/956486a9-1f8d-4aec-80b4-01fde4747683" />
+
 
 ### 🔐 2. Portal Admin (*Backend Management*)
 * **Dashboard Stats:** Menampilkan indikator statistik hitung cepat (agregat database) untuk **Total Artikel** dan **Total Feedback Masuk**.
+<img width="1680" height="871" alt="image" src="https://github.com/user-attachments/assets/b002fef9-b2d3-44c2-9680-ffafb635b0dd" />
+
 * **Manajemen Artikel (CRUD):**
+<img width="1680" height="866" alt="image" src="https://github.com/user-attachments/assets/f7013688-6bea-4015-80db-406ea591b1d9" />
+<img width="1680" height="874" alt="image" src="https://github.com/user-attachments/assets/ef0b886a-9d0f-4e76-bd75-e86a4e354145" />
+
   * **Create:** Tambah artikel SOP baru.
   * **Read:** Tabel daftar artikel beserta status publikasinya.
   * **Update:** Edit konten, judul, dan kategori artikel.
   * **Delete:** Hapus artikel dari sistem.
 * **Alur Kerja Publikasi (*Workflow*):** Opsi status **Draft** (simpan sementara) dan **Published** (tayangkan ke publik).
 * **Manajemen Feedback:** Tabel log riwayat pesan dan masukan yang dikirim oleh pengguna dari halaman depan.
+<img width="1680" height="874" alt="image" src="https://github.com/user-attachments/assets/4d38ee32-13c4-466f-8631-ca5dee18049f" />
+
 
 ### 🛡️ 3. Validasi & Interaktivitas UI/UX
 * **CodeIgniter Form Validation:** Proteksi berlapis pada form input (judul wajib diisi, minimal karakter, validasi format email sah, dll).
