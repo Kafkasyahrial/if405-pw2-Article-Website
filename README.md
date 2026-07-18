@@ -1,4 +1,3 @@
-```markdown
 # 🌐 NOC Knowledge Base — Web Application Portal
 
 ![CodeIgniter 3](https://img.shields.io/badge/CodeIgniter-3.1.13-ef4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -43,7 +42,8 @@ Aplikasi ini dibangun menggunakan arsitektur **MVC (Model-View-Controller)** dar
   * **Delete:** Hapus artikel dari sistem.
 * **Alur Kerja Publikasi (*Workflow*):** Opsi status **Draft** (simpan sementara) dan **Published** (tayangkan ke publik).
 * **Manajemen Feedback:** Tabel log riwayat pesan dan masukan yang dikirim oleh pengguna dari halaman depan.
-<img width="1680" height="874" alt="image" src="https://github.com/user-attachments/assets/4d38ee32-13c4-466f-8631-ca5dee18049f" />
+<img width="1680" height="874" alt="image" src="https://github.com/user-attachments/assets/3b69f86e-1450-4913-b952-1dbb5527564d" />
+
 
 
 ### 🛡️ 3. Validasi & Interaktivitas UI/UX
@@ -160,4 +160,3 @@ Proyek aplikasi web ini dibuat dan dikembangkan sebagai pemenuhan tugas mata kul
 
 *Copyright © 2026 — NOC Knowledge Base Portal. Built with CodeIgniter 3.*
 
-```
